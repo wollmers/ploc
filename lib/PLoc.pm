@@ -80,3 +80,5 @@ sub format_number {}
 sub get_plural_categories {}
 
 sub select_plural_form {}
+
+1;
